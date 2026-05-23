@@ -1,5 +1,3 @@
-# xiaqy
-
 <div align="center">
 
 ## 🧠 Preparing for USTC CS Entrance Examination
@@ -153,6 +151,6 @@ while (!admitted_to_ustc)
 
 <div align="center">
 
-### 2026 → USTC
+### 2027 → USTC
 
 </div>
